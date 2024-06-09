@@ -1,0 +1,14 @@
+name: flower-fedn
+build_dependencies:
+  - pip
+  - setuptools
+  - wheel
+  
+dependencies:
+  - torch
+  - torchvision
+  - Pillow
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - fedn
